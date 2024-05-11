@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/lensCorp/static/css/main.03a895e5.css",
-    "main.js": "/lensCorp/static/js/main.8859fa12.js",
+    "main.css": "/lensCorp/static/css/main.6cf26686.css",
+    "main.js": "/lensCorp/static/js/main.d39835cd.js",
     "static/js/453.1f52b658.chunk.js": "/lensCorp/static/js/453.1f52b658.chunk.js",
     "static/media/aboutLatest.jpg": "/lensCorp/static/media/aboutLatest.8a6b2185567ce06adc95.jpg",
     "static/media/nav_logo.jpg": "/lensCorp/static/media/nav_logo.0b2413f0bd137219f9f0.jpg",
     "static/media/bg.jpg": "/lensCorp/static/media/bg.e7a49f8310f7124c72a8.jpg",
     "index.html": "/lensCorp/index.html",
-    "main.03a895e5.css.map": "/lensCorp/static/css/main.03a895e5.css.map",
-    "main.8859fa12.js.map": "/lensCorp/static/js/main.8859fa12.js.map",
+    "main.6cf26686.css.map": "/lensCorp/static/css/main.6cf26686.css.map",
+    "main.d39835cd.js.map": "/lensCorp/static/js/main.d39835cd.js.map",
     "453.1f52b658.chunk.js.map": "/lensCorp/static/js/453.1f52b658.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03a895e5.css",
-    "static/js/main.8859fa12.js"
+    "static/css/main.6cf26686.css",
+    "static/js/main.d39835cd.js"
   ]
 }
